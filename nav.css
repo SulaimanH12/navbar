@@ -95,8 +95,9 @@ nav li {
 	margin: 1rem;
 }
 
+/* targets the hamburger menu contents like about portfolio contact etc */
 nav ul {
-	margin-top: -33rem;
+	margin-top: -33rem; 
 }
 
 nav::before {
